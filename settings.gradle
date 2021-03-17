@@ -1,0 +1,2 @@
+include ':Manasi\'sPicsum'
+rootProject.name = "My Application123"
